@@ -1,0 +1,42 @@
+.homePageBody{
+    margin: 0;
+}
+
+#container {
+    width: 100vw;
+    height: 10vh;
+    background-color: darkgray;
+    box-sizing: border-box;
+    padding: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    margin: 10px 20px;
+}
+
+.main_Body{
+    width: 100vw;
+    height: 80vh;
+    background-color: lightgray;
+    box-sizing: border-box;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: darkgray;
+    box-sizing: border-box;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
